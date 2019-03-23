@@ -1,0 +1,23 @@
+
+
+#container{
+    width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: red; */
+    text-align: center;
+}
+
+img{
+    width: 70px;
+    height: 70px;
+    margin: 20px;
+}
+
+
+#cmdClick{
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    margin: 40px;
+}
